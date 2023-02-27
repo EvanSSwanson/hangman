@@ -1,0 +1,16 @@
+.Header {
+    display: flex;
+    height: 6vw;
+    width: 100vw;
+    background-color: #1c1a1a;
+    font-family: 'Anton';
+    color:#f4eeee;
+}
+
+.title {
+    margin-left: 2vw;
+    font-size: 2vw;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
